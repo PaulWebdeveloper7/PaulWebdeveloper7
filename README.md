@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as freelancer 
-- 🌱 I’m currently learning  app development 
+- 🌱 I'm professional in Web development .
 - 👯 I’m looking to collaborate on github 
--    I'm professional in Web development .
 - 👋 I have expercience in dealing  NODEJS,MONGOOSE, MONGODB , REDIS, MYSQL, SQL,HTML, CSS, BOOTSTAP CSS, CSS TAILWIND , STRAPI , REACT JS , ANGULAR , JAVASCIPT AND 
     TYPESCRIPT ,PYTHON , DJANGO , FLASK .
 - 💬 Ask me about topics related to web development 
